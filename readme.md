@@ -17,3 +17,6 @@ Please refer to our extensive [Wiki documentation](https://github.com/dingo/api/
 ## License
 
 This package is licensed under the [BSD 3-Clause license](http://opensource.org/licenses/BSD-3-Clause).
+
+
+## http://apidocjs.com/
